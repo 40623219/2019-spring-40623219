@@ -48,6 +48,9 @@
 <v t="leo.20181105034339.1" a="E"><vh>week16</vh>
 <v t="leo.20181105034339.2"><vh>w16</vh></v>
 </v>
+<v t="leo.20190614022136.1" a="E"><vh>week16-2</vh>
+<v t="leo.20190614022136.2"><vh>w16-2</vh></v>
+</v>
 <v t="leo.20190614014003.1" a="E"><vh>week17</vh>
 <v t="leo.20190614014003.2"><vh>w17</vh></v>
 </v>
@@ -425,11 +428,8 @@ Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/in
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gKuWi7ssWkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ykMOb36YXSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SGm4HTXP5uM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-
+https://www.youtube.com/embed/ykMOb36YXSY
+https://www.youtube.com/embed/SGm4HTXP5uM
 
 </t>
 <t tx="leo.20190614014003.1">&lt;section data-markdown&gt;
@@ -453,6 +453,26 @@ Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/in
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7mT3ac6eqr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
+
+</t>
+<t tx="leo.20190614022136.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614022136.2">## 第16週
+
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ykMOb36YXSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SGm4HTXP5uM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
