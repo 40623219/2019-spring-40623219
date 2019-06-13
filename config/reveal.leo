@@ -27,26 +27,29 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181105034055.1" a="E"><vh>week1</vh>
-<v t="leo.20181105034055.2"><vh>w1</vh></v>
+<v t="leo.20181105034055.1" a="E"><vh>week10</vh>
+<v t="leo.20181105034055.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20181105032431.1" a="E"><vh>week2</vh>
-<v t="leo.20181105032431.2"><vh>w2</vh></v>
+<v t="leo.20181105032431.1" a="E"><vh>week11</vh>
+<v t="leo.20181105032431.2"><vh>w11</vh></v>
 </v>
-<v t="leo.20181105034043.1" a="E"><vh>week3</vh>
-<v t="leo.20181105034043.2"><vh>w3</vh></v>
+<v t="leo.20181105034043.1" a="E"><vh>week12</vh>
+<v t="leo.20181105034043.2"><vh>w12</vh></v>
 </v>
-<v t="leo.20181105034041.1" a="E"><vh>week4</vh>
-<v t="leo.20181105034041.2"><vh>w4</vh></v>
+<v t="leo.20181105034041.1" a="E"><vh>week13</vh>
+<v t="leo.20181105034041.2"><vh>w13</vh></v>
 </v>
-<v t="leo.20181105034031.1" a="E"><vh>week5</vh>
-<v t="leo.20181105034031.2"><vh>w5</vh></v>
+<v t="leo.20181105034031.1" a="E"><vh>week14</vh>
+<v t="leo.20181105034031.2"><vh>w14</vh></v>
 </v>
-<v t="leo.20181105034328.1" a="E"><vh>week6</vh>
-<v t="leo.20181105034328.2"><vh>w6</vh></v>
+<v t="leo.20181105034328.1" a="E"><vh>week15</vh>
+<v t="leo.20181105034328.2"><vh>w15</vh></v>
 </v>
-<v t="leo.20181105034339.1" a="E"><vh>week7</vh>
-<v t="leo.20181105034339.2"><vh>w7</vh></v>
+<v t="leo.20181105034339.1" a="E"><vh>week16</vh>
+<v t="leo.20181105034339.2"><vh>w16</vh></v>
+</v>
+<v t="leo.20190614014003.1" a="E"><vh>week17</vh>
+<v t="leo.20190614014003.2"><vh>w17</vh></v>
 </v>
 </v>
 </v>
@@ -139,7 +142,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.html)
+Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/index.html)
 &lt;/small&gt;
 
 </t>
@@ -267,15 +270,15 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105032431.2">## 第十二週
+<t tx="leo.20181105032431.2">## 第11週
 
-### 該如何從零畫出一個進球機構
+### 了解手足球是怎麼運作的
 
 ```
 @language python
-1.確定選用渦桿，最簡單的方法!
+1.這禮拜跟組員討論手足球的零件，了解一下他們所設計的零件有甚麼
 
-2.使用onshape製作
+2.開始去用老師所提供的手足球示範檔案來練習
 
 
 ```
@@ -292,17 +295,15 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034031.2">## 第十五週
+<t tx="leo.20181105034031.2">## 第14週
 
-### 軌道
+### 完成第一版本的模擬
 
 ```
 @language python
-1.進行模擬
+1.這禮拜完成了第一版本的手足球人對人的模擬，而含有送球機構的最終版本的手足球也設計好了，我也開始逕行新的組件及模擬。
 
-2.發現零件無法拆解(在onshape組合件中，還未export前，組合完成時需要先讓旋轉的部分轉一下模擬時才不會被視為同一個零件)
-
-3.發現渦桿會把球推出來
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8BnSOvSbaE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 ```
@@ -318,17 +319,15 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034041.2">## 第十四週
+<t tx="leo.20181105034041.2">## 第13週
 
-### 軌道
+### 拿到第一版本的模擬
 
 ```
 @language python
-1.軌道完成
+1.在拿到第一版本的手足球零件圖後，我立即拿去V-rep裡開始模擬測試
 
-2.兼具美觀的部分利用掃掠，能在外觀平整的情況產生一個只有內部傾斜的軌道
-
-3.實用的部分，可以直接接上球框底下的部分，不須多做額外的修改
+2.而在模擬的過程中也遇到了問題，像是我最初全部的桿子位移的距離都設一樣的，但是有些桿子就會超出桌子的範圍，最後我為每根桿子都單獨設各自的位移距離。
 
 
 ```
@@ -344,16 +343,16 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034043.2">## 第十三週
+<t tx="leo.20181105034043.2">## 第12週
 
-### 渦桿
+### 第一版本手足球
 
 ```
 @language python
-1.完成了渦桿，還未測試
+1.這禮拜在看老師的手足球示範檔案時發現他的人物移動時沒有左右的最大位移限制，所以當你移到桌      子邊緣時按了多少出去就要按多少回來才能換邊移動，
+所以經過詢問同學後知道了怎麼解決。
 
-2.軌道還在想如何能兼具美觀和實用，嘗試畫了一部份
-
+2.解決辦法:將滑動設下左右邊的最大滑動距離
 
 ```
 </t>
@@ -368,17 +367,17 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034055.2">## 第十一週
+<t tx="leo.20181105034055.2">## 第10週
 
-### 分工
+### 分配各自的工作
 
 ```
 @language python
-1.期末進度分工，我的部分是"進球機構"
+1.我分配到的工作是V-rep機構模擬。
 
-2.和同樣做進球機構的同學討論方向
+2.去找隔壁組也是負責做模擬的組員討論。
 
-3.底部垂直送球上來 或 連桿式機構 或 渦桿
+3.開始進行組員分配工作，也沒有新的事可以馬上做，所以就去摸索實習任務三在做甚麼。
 
 
 ```
@@ -395,20 +394,18 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034328.2">## 第十六週
+<t tx="leo.20181105034328.2">## 第15週
 
-### 軌道
-
-```
-
-1.在修改的過程中意外解決渦桿會把球推出來的問題(在旁邊多開一個槽，多了一個側巷的移動後，球可以順利沿溝槽向上移動)
-
-2.拍攝一部簡單的V-rep進球機構模擬設定
-
+### 最終版本模擬
 
 ```
 
-&lt;iframe src="https://www.youtube.com/embed/uBk22es_fd8" width="1266" height="480" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+1.組裝完後再進行模擬時發現要讓前後四排球員移動較一致時，可以將人數最少的那兩排球員將移動的速度調快一點。
+
+
+```
+
+
 </t>
 <t tx="leo.20181105034339.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -421,13 +418,37 @@ Created by [40623246](https://mdecadp2018.github.io/site-40623246/content/index.
 
 						
 </t>
-<t tx="leo.20181105034339.2">## 第十七週
+<t tx="leo.20181105034339.2">## 第16週
 
-### 軌道
+### 完成最終版本 Ver人對人
 
 ```
 @language python
-1.將資料更新上小組網站
+1.這禮拜最新版本的手足球模擬人對人完成後。
+2.開始往電腦打電腦的放像去嘗試模擬，不過真的遇到了很大的困難，尤其是在程式方面，更要去多方查詢程式方面的資訊。
+
+
+```
+
+</t>
+<t tx="leo.20190614014003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190614014003.2">## 第17週
+
+### AI對AI版本測試完成
+
+```
+@language python
+經過詢問其他組負責模擬的組員的意見後以及參考他的模擬後，也逐漸有了頭緒，並且也最後也做出了電腦打電腦的模擬，非常感謝他的幫助。
 
 
 ```
