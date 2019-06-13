@@ -300,7 +300,7 @@ Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/in
 ### 完成第一版本的模擬
 
 ```
-@language python
+
 1.這禮拜完成了第一版本的手足球人對人的模擬，而含有送球機構的最終版本的手足球也設計好了，我也開始逕行新的組件及模擬。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8BnSOvSbaE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -423,9 +423,14 @@ Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/in
 ### 完成最終版本 Ver人對人
 
 ```
-@language python
 1.這禮拜最新版本的手足球模擬人對人完成後。
 2.開始往電腦打電腦的放像去嘗試模擬，不過真的遇到了很大的困難，尤其是在程式方面，更要去多方查詢程式方面的資訊。
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gKuWi7ssWkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ykMOb36YXSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SGm4HTXP5uM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 ```
@@ -447,8 +452,9 @@ Created by [40623219](https://40623219.github.io/2019-spring-40623219/content/in
 ### AI對AI版本測試完成
 
 ```
-@language python
 經過詢問其他組負責模擬的組員的意見後以及參考他的模擬後，也逐漸有了頭緒，並且也最後也做出了電腦打電腦的模擬，非常感謝他的幫助。
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7mT3ac6eqr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 ```
